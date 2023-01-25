@@ -4,6 +4,10 @@
 - 😅 Toda ajuda é bem-vinda  
 - 🙃 Pretendo estudar de tudo um pouco
 
+Minhas paixões:
+- livros 📚 
+- música 🎸
+- chuva 🌧️
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luaraadev&show_icons=true&theme=dark)
