@@ -18,6 +18,6 @@
   
   <img align="center" src="https://www.neostartup.com.br/images/all/python.svg" height="30" width="32" >
   
-  <img align="right" src="https://www.pngmart.com/files/11/Baby-Yoda-PNG-Picture.png" height="300" width="302" >
+  <img align="right" src="https://i.pinimg.com/originals/c0/53/58/c053584f9c4246242ce57285fcc6015e.gif" height="250" width="250" >
 
 
