@@ -1,9 +1,9 @@
 ### Oii! Eu sou a lu 🥰
 
-- 🌱 Estou focada em Python no momento 
+- 🐍 Estou focada em Python no momento 
 - 😅 Toda ajuda é bem-vinda  
 - 🙃 Pretendo estudar de tudo um pouco
-- 👩‍💻 Uso o app SoloLearn
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luaraadev&show_icons=true&theme=dark)
