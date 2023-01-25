@@ -1,4 +1,4 @@
-### Oii! Eu sou a luu
+### Oii! 
 
 - 🐍 Estou focada em Python no momento 
 - 😅 Toda ajuda é bem-vinda  
