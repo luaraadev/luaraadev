@@ -1,16 +1,17 @@
-### Hi there 👋
+### Oii! Eu sou a lu 🥰
 
-<!--
-**luaraadev/luaraadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou focada em Python no momento 
+- 😅 Toda ajuda é bem-vinda  
+- 🙃 Pretendo estudar de tudo um pouco
+- 👩‍💻 Uso o app SoloLearn
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luaraadev&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <img src="https://www.neostartup.com.br/images/all/html5.svg" height="30" width="32" >
+  
+  <img src="https://www.neostartup.com.br/images/all/css3.svg" height="30" width="32" >
+  
+  <img src="https://www.neostartup.com.br/images/all/python.svg" height="30" width="32" >
+
+
