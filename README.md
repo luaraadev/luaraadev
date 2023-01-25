@@ -5,13 +5,19 @@
 - 🙃 Pretendo estudar de tudo um pouco
 - 👩‍💻 Uso o app SoloLearn
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luaraadev&show_icons=true&theme=dark)
 
 
-  <img src="https://www.neostartup.com.br/images/all/html5.svg" height="30" width="32" >
   
-  <img src="https://www.neostartup.com.br/images/all/css3.svg" height="30" width="32" >
+  <div style="display: inline_block">
+
+  <img align="center" src="https://www.neostartup.com.br/images/all/html5.svg" height="30" width="32" >
   
-  <img src="https://www.neostartup.com.br/images/all/python.svg" height="30" width="32" >
+  <img align="center" src="https://www.neostartup.com.br/images/all/css3.svg" height="30" width="32" >
+  
+  <img align="center" src="https://www.neostartup.com.br/images/all/python.svg" height="30" width="32" >
+  
+  <img align="right" src="https://www.pngmart.com/files/11/Baby-Yoda-PNG-Picture.png" height="300" width="302" >
 
 
